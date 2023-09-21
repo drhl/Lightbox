@@ -1,2 +1,2 @@
-github "drhl/Imaginary" ~> 5.0.0
-github "drhl/Cache" ~> 6.0.0
+github "drhl/Imaginary" "master"
+github "drhl/Cache" "master"
