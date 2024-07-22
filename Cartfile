@@ -1,2 +1,2 @@
 github "drhl/Imaginary" "master"
-github "drhl/Cache" "master"
+github "hyperoslo/Cache" "7.2.0"
